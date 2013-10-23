@@ -1,6 +1,6 @@
 site :opscode
 
-cookbook 'lightnet', git: 'https://github.com/new-day-international/chef-lightnet.git'
+cookbook 'lightnet', git: 'https://github.com/caseypatrickdriscoll/chef-lightnet.git'
 cookbook 'java', git: 'https://github.com/myers/java.git'
 
 # listing all cookbooks here because Berksfile.lock doesn't work

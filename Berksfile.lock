@@ -2,7 +2,7 @@
   "sources": {
     "lightnet": {
       "locked_version": "0.1.0",
-      "git": "https://github.com/new-day-international/chef-lightnet.git",
+      "git": "https://github.com/caseypatrickdriscoll/chef-lightnet.git",
       "ref": "424427b7a894cf175a5e31f39264797cd8d8b2d7"
     },
     "java": {
