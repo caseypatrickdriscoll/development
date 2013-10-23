@@ -1,7 +1,6 @@
 {
   "sources": {
     "lightnet": {
-      "locked_version": "0.1.0",
       "git": "https://github.com/caseypatrickdriscoll/chef-lightnet.git"
     },
     "java": {
